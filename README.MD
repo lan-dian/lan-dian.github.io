@@ -1,3 +1,16 @@
+---
+title: ES5面向对象
+date: 2020-02-22 10:35:43
+permalink: /pages/b1af5cb8996363c5
+categories: 
+  - 前端
+  - JavaScript文章
+tags: 
+  - null
+author: 
+  name: xugaoyi
+  link: https://github.com/xugaoyi
+---
 <p align="center"><a href="https://xugaoyi.com/" target="_blank" rel="noopener noreferrer"><img width="180" src="https://jsd.cdn.zzko.cn/gh/xugaoyi/image_store/blog/20200409124835.png" alt="logo"></a></p>
 
 <p align="center">
