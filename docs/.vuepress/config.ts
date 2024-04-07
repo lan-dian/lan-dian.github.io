@@ -31,7 +31,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       { text: '首页', link: '/' },
       {
         text: 'Java',
-        link: '/01.java/',
+        link: '/pages/269116/',
       },
       { text: '关于', link: '/about/' },
       {
