@@ -1,5 +1,25 @@
 ---
 home: true
+heroImage: /img/logo.png
+heroText: 岚殿的博客
+tagline: Java后端技术博客，分享一些有深度的内容
+actionText: 快速开始 →
+actionLink: /pages/336431/
+bannerBg: none
+
+# features: # 可选的
+#   - title: 润物无声
+#     details: 只做增强不做改变，引入它不会对现有工程产生影响，如丝般顺滑。
+#   - title: 效率至上
+#     details: 只需简单配置，即可快速进行单表 CRUD 操作，从而节省大量时间。
+#   - title: 丰富功能
+#     details: 代码生成、自动分页、逻辑删除、自动填充等功能一应俱全。
+
+postList: none
+hideRightBar: true
+---
+<!-- ---
+home: true
 # heroImage: /img/web.png
 heroText: 岚殿的技术博客
 tagline: Java后端技术博客，分享一些有深度的内容
@@ -25,7 +45,8 @@ bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | no
 # postList: detailed
 # simplePostListLength: 10 # 简约版文章列表显示的文章数量，默认10。（仅在postList设置为simple时生效）
 # hideRightBar: true # 是否隐藏右侧边栏
----
+--- -->
+
 
 
 <!-- 小熊猫 -->
