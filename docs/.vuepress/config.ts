@@ -36,6 +36,10 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       {
         text: '技术学习',
         link: '/web/',
+        items: [
+          { text: "docker", link: '/pages/479a6c/' },
+          { text: "hbase", link: '/pages/0d9ac7/' }
+        ]
       },
       { text: '关于', link: '/about/' },
       {
@@ -281,7 +285,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
   markdown: {
     lineNumbers: true,
-    extractHeaders: ['h1','h2', 'h3', 'h4', 'h5', 'h6'], // 提取标题到侧边栏的级别，默认['h2', 'h3']
+    extractHeaders: ['h2', 'h3', 'h4', 'h5', 'h6'], // 提取标题到侧边栏的级别，默认['h2', 'h3']
   },
 
   // 监听文件变化并重新构建
