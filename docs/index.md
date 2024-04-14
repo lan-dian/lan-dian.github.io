@@ -4,7 +4,7 @@ heroImage: /img/logo.png
 heroText: 岚殿的博客
 tagline: Java后端技术博客，分享一些有深度的内容
 actionText: 快速开始 →
-actionLink: /pages/336431/
+actionLink: /web/
 bannerBg: none
 
 # features: # 可选的

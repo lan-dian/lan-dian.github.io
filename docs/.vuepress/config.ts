@@ -29,16 +29,23 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     // 导航配置
     nav: [
       { text: '首页', link: '/' },
-      {
-        text: 'Java',
-        link: '/pages/336431/',
-      },
+      // {
+      //   text: 'Java',
+      //   link: '/pages/336431/',
+      // },
       {
         text: '技术学习',
         link: '/web/',
         items: [
           { text: "docker", link: '/pages/479a6c/' },
           { text: "hbase", link: '/pages/0d9ac7/' }
+        ]
+      },
+      {
+        text: 'AI大模型',
+        link: '/ai/',
+        items: [
+          { text: "提示词工程", link: '/pages/0c8b87/' }
         ]
       },
       { text: '关于', link: '/about/' },
