@@ -29,10 +29,10 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     // 导航配置
     nav: [
       { text: '首页', link: '/' },
-      // {
-      //   text: 'Java',
-      //   link: '/pages/336431/',
-      // },
+      {
+        text: 'Java',
+        link: '/java/',
+      },
       {
         text: '技术学习',
         link: '/web/',
